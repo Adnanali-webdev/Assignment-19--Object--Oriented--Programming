@@ -1,0 +1,61 @@
+TASK 1
+
+Problem Statement 1: Create a Constructor for a Person
+
+Write a JavaScript function constructor named Person that takes two parameters, name, and age, and Add a
+method to the prototype to display name and age. Then, create two instances of Person and display their
+names and ages.
+
+
+TASK 2
+
+Problem Statement 2: Implement a Bank Account
+
+Create a constructor function named BankAccount that initializes a bank account with an initial balance.
+Include methods for depositing and withdrawing money from the account. Write code to demonstrate these
+operations on a bank account object.
+
+
+TASK 3
+
+Problem Statement 3: Create a Constructor for a Book
+
+Design a constructor function called Book that takes title and author as parameters. Add a method to the
+prototype of the Book that displays the book's information. Create at least two book instances and display their
+
+information.
+
+
+TASK 4
+
+Problem Statement 4: Implement Task 1 using Class.
+
+Design a JavaScript class called Person with properties for name and age. Implement a method to display the
+person's name and age. Then, create instances of Person and display their information.
+
+
+TASK 5
+
+Problem Statement 5: Implement a Calculator Class
+
+Create a class called Calculator that initializes two values value1 and value2 to store numbers. Add methods for
+add, subtract, multiply, and divide. Perform and show operations.
+
+
+TASK 6
+
+Problem Statement 6: Design a Class for a Geometric Shape
+
+Design a class called Shape that can represent various geometric shapes. Implement subclasses for specific
+shapes like Circle, Rectangle, and RightTriangle. Each subclass should have properties of that shape (e.g..
+Width, height for a rectangle) and methods for calculating the area and perimeter of the shape. Create
+instances of these shapes and calculate their areas and perimeters.
+
+
+TASK 7
+
+Problem Statement 7: Implement a Library System
+
+Create a class called Library that can manage a collection of books. Each book should be represented as an
+instance of a Book class (with properties like title, author, and availability). Implement methods in the Library
+class to add books, check out books, and return books. Keep track of the books available.
