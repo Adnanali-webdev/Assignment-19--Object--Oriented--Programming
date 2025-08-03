@@ -1,1 +1,0 @@
-console.log(user1.withdraw(10000));
